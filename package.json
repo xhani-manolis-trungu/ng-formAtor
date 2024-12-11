@@ -1,5 +1,5 @@
 {
-  "name": "angular-starter",
+  "name": "ng-formator",
   "private": true,
   "scripts": {
     "ng": "ng",
